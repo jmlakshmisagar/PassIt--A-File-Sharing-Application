@@ -1,1 +1,1 @@
-# PassIt--A-File-Sharing-Application
+# PassIt-A-File-Sharing-Application
